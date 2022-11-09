@@ -4,7 +4,7 @@ package ss3_mang_va_phuong_thuc_trong_java.bai_tap;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class xoa_phan_tu_khoi_mang {
+public class XoaPhanTuKhoiMang {
     public static void main(String[] args) {
         int[] array = {1,2,3,4,5,6,0,0};
         Scanner input = new Scanner(System.in);
